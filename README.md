@@ -10,7 +10,7 @@ I started my computer science journey by completing Harvard's CS50x course. Sinc
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/aymen-al-sheikhly-0759bb1a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]("www.linkedin.com/in/aymen-al-sheikhly-0759bb1a")
 
 ## 💻 Tech Stack:
 

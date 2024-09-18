@@ -6,7 +6,7 @@ I am a Mechanical Engineer with 10+ years in the industry. I am now branching in
 
 ## 🚀 What I'm Up To
 
-I started my computer science journey by completing Harvard's CS50x course. Since completing the course, I have focused my continued learning on Python and C++.
+I started my computer science journey by completing Harvard's CS50x course. Since completing the course, I have focused my continued learning in Python and C++.
 
 ## 🌐 Connect with me:
 
